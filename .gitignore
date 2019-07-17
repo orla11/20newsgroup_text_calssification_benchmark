@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+glove.*.*.*
+glove.6B/
+glove.6B.zip
+__pycache__/
+pkls/*
+graphs/
+.DS_Store
