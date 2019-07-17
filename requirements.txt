@@ -1,0 +1,13 @@
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+sklearn
+ipykernel
+pprint
+keras
+tqdm
+nltk
+snips
