@@ -13,12 +13,16 @@ Some notebooks where I discuss and develop different models in order to classify
   - data_preprocessing.ipynb
   
 ## Models
+  (class2sequence_noHidden.ipynb)
   - LSTM + MLP
-  - LSTM + Dense Output Layer
   - LSTM + MLP (pretrained glove embeddings)
+  
+  (class2sequence.ipynb)
+  - LSTM + Dense Output Layer
   - LSTM + Dense Output Layer (pretrained glove embeddings)
-  - Bag of Words + MLP
-  - Bag of Embeddings + MLP (SOWE: sum of word embeddings)
+  
+  - Bag of Words + MLP (bow.ipynb)
+  - Bag of Embeddings + MLP (SOWE: sum of word embeddings) (sowe.ipynb)
   
 ## Other
   - /results: a bunch of pdfs with the results obtained
