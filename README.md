@@ -27,3 +27,4 @@ Some notebooks where I discuss and develop different models in order to classify
 ## Other
   - /results: a bunch of pdfs with the results obtained
   - /images: image folder
+  - /graphs: resulting graphs
