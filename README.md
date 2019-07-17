@@ -26,6 +26,5 @@ Some notebooks where I discuss and develop different models in order to classify
   
 ## Other
   - /results: a bunch of pdfs with the results obtained
-  - /pkls: pkls created for the sake of semplicity in order to speed up the process of reproducing the classification
   - /images: image folder
   - /graps: where all the resulting graphs for each model are stored
